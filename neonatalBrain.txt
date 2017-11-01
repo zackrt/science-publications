@@ -1,0 +1,221 @@
+Morphological Features of the Neonatal Brain Following Exposure to Regional Anesthesia During Labor and Delivery
+Marisa N. Spann, Ph.D.,1 Dana Serino, M.A.,1 Ravi Bansal, Ph.D.,1 Xuejun Hao, Ph.D.,1 Giancarlo Nati, B.A.,1 Zachary Toth, M.P.A.,1 Kirwan Walsh, B.S.,1 I-Chin Chiang, M.S.,1 Juan Sanchez-Peña, M.S.,1 Jun Liu, Ph.D.,1 Alayar Kangarlu, Ph.D.,2 Feng Liu, Ph.D.,1 Yunsuo Duan, Ph.D.,1 Satie Shova, B.S.R.T.,2 Jane Fried, M.D.,1 Gregory Z. Tau, M.D.,1 Tove S. Rosen, M.D., and Bradley S. Peterson, M.D.1
+Author information ► Copyright and License information ►
+The publisher's final edited version of this article is available at Magn Reson Imaging
+See other articles in PMC that cite the published article.
+Go to:
+Abstract
+Introduction
+
+Recent animal and human epidemiological studies suggest that early childhood exposure to anesthesia may have adverse effects on brain development. As more than 50% of pregnant women in the United States and one-third in the United Kingdom receive regional anesthesia during labor and delivery, understanding the effects of perinatal anesthesia on postnatal brain development has important public health relevance.
+
+Methods
+
+We used high-resolution Magnetic Resonance Imaging (MRI) to assess the effects of regional anesthesia during labor and delivery as part of a larger study of perinatal exposures on the morphological features of the neonatal brain. We mapped morphological features of the cortical surface in 37 healthy infants, 24 exposed and 13 unexposed to regional anesthesia at delivery, who were scanned within the first 6 weeks of life.
+
+Results
+
+Infants exposed to maternal anesthesia compared with unexposed infants had greater local volumes in portions of the frontal and occipital lobes bilaterally and right posterior portion of the cingulate gyrus. Longer durations of exposure to anesthesia correlated positively with local volumes in the occipital lobe.
+
+Conclusions
+
+Anesthesia exposure during labor and delivery was associated with larger volumes in portions of the frontal and occipital lobes and cingulate gyrus in neonates. Longitudinal MRI studies are needed to determine whether these morphological effects of anesthesia persist and what their consequences on cognition and behavior may be.
+
+Keywords: Infant, Brain, MRI, Anesthesia, Morphology
+Go to:
+1. Introduction
+In 2007 and 2011 the U.S. Food and Drug Administration held advisory meetings to discuss emerging animal and human research suggesting that exposure to anesthetic agents during infancy and early childhood can be neurotoxic and produce long-term learning deficits [1, 2]. The committee determined that further studies are needed to establish the dose and duration of anesthetic use that produces the neurotoxic effects reported in young animals and humans, and it recommended that elective surgeries requiring administration of anesthesia be delayed whenever possible in children younger than three years of age.
+
+Brain development during early childhood represents a unique temporal window of potential vulnerability to the neurotoxic effects of anesthetic agents, as the major architectural features of the brain are established during prenatal and early postnatal life [3]. The brain grows most rapidly between the third trimester of gestation and the fourth postnatal month [3], primarily as a consequence of glial cell proliferation, but also of synapse formation and the arborization of axons and dendrites [4]. Neurons at this time also establish early functional circuits as foundations for the later emergence of more elaborate networks that support higher-order cognitive functions [5].
+
+Prior studies have reported divergent neurobehavioral effects of neonatal exposure to anesthesia. Whereas several studies reported that exposure to anesthesia via maternal epidural and spinal block had no discernible short-term effects on neonatal behavior [6], several others suggested that anesthetic exposure during labor and delivery depresses neonatal sucking [7], muscle tone, and strength [8], albeit only transiently in some cases. None of these studies assessed the long-term neurodevelopmental effects of anesthetic exposure during labor and delivery.
+
+Detection of anesthetic drug levels in the umbilical vein and artery at birth indicates that maternally administered regional anesthesia can reach the human fetus [9]. Although animal studies across many species have shown that exposure to anesthetic agents increase apoptosis [10, 11] and the density of dendritic spines [12], to date no human studies have assessed the effects of in utero exposure to anesthesia on brain development.
+
+The current study of healthy, full-term neonates was a naturalistic assessment of the correlates of regional (epidural or spinal) exposure to anesthesia with indices of local volume across the cerebral surface. Based on findings from animal studies, we hypothesized that exposure to regional anesthesia would be associated with altered measures of brain maturation.
+
+Go to:
+2. Methods
+2.1 Participants
+
+Our cohort of 37 healthy infants was a subset of participants in a larger study of perinatal exposures on infant brain development. Pregnant women were recruited from 2005 to 2009 during the first to third trimester of pregnancy from prenatal clinics at New York Presbyterian Hospital, Columbia University Medical Center. Inclusion criteria for healthy infants included a maternal age at conception of 18–45 years, no major prenatal or delivery complications, gestational age ≥ 37 weeks, birth weight >10th percentile relative to the national standards, no major congenital anomalies, and an uncomplicated neonatal nursery course. Infants were excluded if the mother had a history of a chronic medical disease, used drugs of abuse, smoked cigarettes, or drank more than 1 ounce of alcohol during any trimester. Parents provided informed written consent for their infant to participate in the study including the MRI scan. Infants were imaged within the first 6 weeks of life. All study procedures were approved by the Institutional Review Board of the New York State Psychiatric Institute.
+
+2.2 Procedures
+
+2.2.1 Measures
+To determine whether mother-infant dyads were eligible for the study, we administered to all mothers a hospital screening survey that included questions on health, use of drugs of abuse, smoking, and alcohol. The Hollingshead Index of Social Status was estimated using the highest educational and current occupational levels attained by the parent(s) [13].
+
+A neonatologist extracted from the clinical record obstetrical and neonatal data for the course of pregnancy, labor, and delivery, use of analgesia/anesthesia, laboratory data, and neonatal course (e.g., Apgar scores and physical exam).
+
+The standard regional analgesia (A) and anesthesia (B) protocols used at New York Presbyterian Hospital are listed (STable 1 in the Supplement). Regional analgesia and anesthesia for labor and delivery refers to the use of local anesthetic and adjuvant drugs that at varying doses relieve pain or produce partial or complete loss of sensation in a localized area. Analgesia refers to the use of lower doses of the medication that provides pain relief with or minimal or no loss of sensation. Anesthesia refers to the use of higher doses of the medications that provide pain relief with loss of sensation. Because the terms are often used interchangeably and therefore for simplicity, we will use the term anesthesia to refer to analgesia and anesthesia.
+
+2.2.2 MRI Scanning
+The infants were fed, swaddled, and given time to fall asleep. No sedatives were used. Foam ear plugs along with ear shields (Natus Medical Inc., San Carlos, CA) were applied to dampen scanner noise. MRI safe ECG and pulse oximetry leads were placed and heart rate and oxygen saturation were continually monitored during the scan (InVivo Research, Orlando, FL). Infants were acclimated to the scanner environment and noise before the start of scanning. Scans were stopped at any signs of infant discomfort or changes in vital signs.
+
+Images were obtained using a 3 Tesla GE Signa MRI scanner (Milwaukee, Wisconsin) and an 8-channel head coil. A 3-plane localizer was used to position the T2-weighted axial images parallel to the anterior–posterior commissure line. The T2-weighted images were acquired using a 2D, multiple-shot, fast spin echo pulse sequence that employed PROPELLER (Periodically Rotated Overlapping Parallel Lines with Enhanced Reconstruction) to reduce motion artifacts in reconstructed MR images [14]. The pulse sequence parameters were repetition time=10,000 ms; echo time=130 ms; echo train length=32; matrix size=192×192; field of view=190×190 mm; phase field of view=100%; slice spacing=1mm; readout bandwidth=83.33 KHz; number of acquisitions=1×2 (i.e., two images are acquired and averaged off-line, allowing us to rescan one of the acquisitions if the infant moved). The voxel dimensions were 0.99mm × 0.99mm × 1mm.
+
+2.2.3 Image Processing
+The anatomical T2-weighted images for each infant were processed using a combination of automated and manual editing procedures (SFig.1 in the Supplement) that have been previously described [15]. Briefly, morphometric analyses were performed using ANALYZE 7.5 software (Biomedical Imaging Resource, Mayo Foundation, Rochester, Minnesota) with operators blinded to infant characteristics. Large-scale variations in image intensity were removed [16]. Images were all aligned to a standard orientation using midline landmarks (anterior and posterior commissure and midsagittal plane) to correct for head rotation and tilt. We isolated the brain from nonbrain tissue using an isointensity contour function with manual edits that were confirmed by a second operator [17]. Connecting dura was removed manually on each slice in the sagittal view and confirmed in the orthogonal views. The brain was divided into hemispheres using a curvilinear plane positioned through standard midline landmarks. The cerebellum was removed where the peduncles join the brainstem, the brainstem was transected at the pontomedullary junction, and the brain was split into two hemispheres. The operator interrater reliability was assessed on 10 scans and intraclass correlation coefficients were greater than 0.95.
+
+2.2.4 Deformation-Based Measures of Brain Morphology
+We applied a rigorous, two-step procedure to select the brain of a single infant as the template to ensure that it was morphologically representative of the brains in our cohort (see Supplemental Materials). We calculated distances from the surfaces of each neonatal brain from the corresponding points on the surface of a template brain (SFig.1 in the Supplement) using previously validated methods [18] that permit fine-grained analyses of localized morphological features across the cerebral surface [19]. First we applied to each brain a similarity transformation consisting of seven parameters (three translations along the X, Y, and Z axes, three different rotations about the three axes, and one global scaling that scales the entire brain by the same amount along the three axes) to coregister each brain to the template while maximizing mutual information between the brains [20]. Second, we nonlinearly transformed each brain to the template using a high-dimensional, non-rigid warping algorithm based on fluid dynamics [21] so that the two brains matched perfectly in size and shape. The nonlinear deformation was then reversed, thereby establishing a point-to-point correspondence across the surfaces of the two brains. We then measured the Euclidean distances between corresponding points across the two surfaces, encoding the distances as positive for outward and negative for inward deformations relative to the template. Finally, because we were interested in absolute rather than relative measures of the effects of anesthetic exposure on morphology of the cerebral surface, we unscaled the signed Euclidean distances by the global scaling parameters that were estimated in the initial similarity transformation that coregistered each brain to the template.
+
+2.2.5 Statistical Analyses
+We applied multiple linear regression to brain measures at each point on the cerebral surface to test the hypothesis that exposure to regional anesthesia during labor and delivery altered neonatal brain maturation. For surface analyses, the dependent measure was the signed Euclidean distances at each point on the surface of the template for each infant brain. The independent variable was prior exposure to anesthesia, and covariates were postmenstrual age at the time of scan, and sex. Post-hoc analyses were performed to evaluate the influence of potential confounders in testing of our primary hypothesis. These analyses included assessment of the independent effects of spinal and epidural anesthesia, their dose-response effects as represented by the duration of anesthesia exposure, and the potentially confounding influence of age, maternal factors, and type of delivery. We performed analyses of covariance to assess the correlates of regional anesthesia with measures of developmental outcome at 12 months of age. P-values were adjusted for the number of statistical comparisons across the brain surface using False Discovery Rate [22], color-coded, and displayed on the template brain, with warm colors (red and yellow) denoting outward deviations or protrusions and cool colors (purple and blue) denoting inward deviations or indentations in the exposed relative to the unexposed group. For the purposes of simplicity, the regional findings for surface distances relative to the template brain are interpreted and discussed as effects of local volumes across the cerebral surface.
+
+2.2.6 Atlas-Based Visualization of Findings
+To aid in localization of findings, a digital brain atlas of a neonate with a parcellation scheme [23] was registered to the template using the same procedures outlined for surface analysis. Then the major sulci that were represented in the atlas and that are usually present in term newborn brains (the Sylvian and interhemispheric fissures; central, pre-central, post-central, and superior temporal sulci) were digitized and represented on the 3-D surface rendering of the template brain.
+
+Go to:
+3. Results
+3.1 Demographic, Clinical, and Behavioral Measures
+
+The exposed and unexposed groups did not differ significantly in gestational age at birth, postmenstrual age at the time of scan, ethnicity, socioeconomic status, gravida, or para (Table 1; STable 2 in the Supplement). All infants in the unexposed group (n=13) were delivered vaginally (SFig.2 in the Supplement). All infants delivered by C-section (n=12) and 48% of vaginal deliveries (n=12) were exposed to anesthesia. For infants exposed to anesthesia, the duration of exposure was on average 358.2 minutes (min) (SD=255.5 min) for epidural and 24.8 min (SD=6.9 min) for spinal anesthetics.
+
+Table 1
+Table 1
+Neonatal Demographics
+3.2 Hypothesis Testing
+
+Infants exposed compared to those unexposed to anesthesia had greater local volume in the dorsal frontal lobes bilaterally, left hemisphere occipital lobes, and posterior portion of the cingulate gyrus in the right hemisphere (Fig.1).
+
+Figure 1
+Figure 1
+Effects of Anesthesia Exposure on Local Volumes
+3.3 Post-Hoc Analyses
+
+To determine whether the main effect of regional anesthesia derived primarily from exposure to one or another type of anesthesia block (epidural or spinal), infants exposed to each type of block were compared to infants unexposed to anesthesia. Findings in the epidural and spinal groups separately were both similar to the main findings for regional anesthesia (Fig. 2A, C).
+
+Figure 2
+Figure 2
+Correlation of the Duration of Anesthesia Administration with Local Volumes
+Duration of anesthesia administration was used as an index of the dose of anesthesia infants received. For infants exposed to epidural anesthesia, duration of exposure correlated positively with local volumes in the occipital lobe predominantly in the right hemisphere, and inversely in the dorsal parietal regions bilaterally and right mesial wall (Fig.2B). For infants exposed to spinal anesthesia (usually of short duration), however duration did not correlate with volumes in the same regions as identified in our main analyses (Fig.2D). However, duration correlated inversely with local volumes in the dorsal frontal and parietal regions of the left hemisphere and mesial wall of the right hemisphere (Fig.2D), though the effects are much smaller in spatial extent than those for duration of exposure to epidural anesthesia (Fig.2B).
+
+Comparison of the cerebral surface of the exposed and unexposed infants to anesthesia demonstrated consistent and significantly greater local volumes for the exposed infants (Fig.3). Volumes in infants exposed to epidural anesthesia correlated positively with the duration of exposure in the right occipital lobe.
+
+Figure 3
+Figure 3
+Scatterplots for Anesthesia, Type of Regional Block, and Duration of Exposure Findings
+Local volumes correlated positively with postmenstrual age in both exposure groups in the frontal and occipital lobes. The correlation with postmenstrual age in infants exposed to anesthesia was significantly greater than in unexposed infants, however, producing a significant age-by-exposure interaction (SFig.5).
+
+Findings were similar to the main analyses with anesthesia exposure (1) when stratifying data by type of delivery (SFig.4); (2) when covarying for type of delivery, and maternal age, IQ, or number of prenatal visits (SFigs.7 and 8); (3) when using a second, randomly selected template brain for surface analyses (SFig.6); and (4) when removing the one infant in the anesthesia-exposed group who was 36.1 weeks postmenstrual age at the time of scan (SFig.9). Infants exposed to anesthesia did not differ from those who were unexposed to anesthesia in measures of receptive and expressive communication, or fine and gross motor performance, at 12 months of age while covarying for age at scan, gender, delivery type, and socioeconomic status (STable 3). Fine motor and expressive communication scores correlated inversely with local volumes in frontal and occipital regions bilaterally, areas where local volumes correlated positively with anesthesia exposure (SFig.3).
+
+Go to:
+4. Discussion
+We found that infants exposed to maternal regional anesthesia, compared with infants who were not exposed, had greater local volumes in frontal and occipital lobes bilaterally and in the right posterior cingulate gyrus. The longer the duration of exposure to anesthesia, the larger were the occipital lobes, suggesting the presence of a dose-response effect for exposure to anesthesia on brain structure. Age correlated significantly with local volumes in the frontal and occipital lobes in the exposed and unexposed groups, but the correlation was stronger in infants exposed to anesthesia. Although the type of delivery correlated with anesthetic use and was a potential confounder for its effects, extensive post hoc analyses indicated that type of delivery was in fact not responsible for the differences detected in local volumes at the cerebral surface.
+
+4.1 Maturational Effects
+
+The age-related increases in frontal and occipital lobes and cingulate gyrus detected in both exposure groups are generally consistent with findings from prior human neuroimaging and histological studies of brain development. These brain regions in general mature more rapidly than other brain regions during this period of development. Cross-sectional and longitudinal studies of term infants undergoing MRI within the first two months of life have demonstrated the greatest age-related increases in volume in occipital, parietal [24], and frontal [25] regions, consistent with our findings. Prior longitudinal MRI studies of infants who were imaged as newborns and at 12 months of age have indicated the presence of more rapid regional growth in portions of frontal (superior, inferior, orbitofrontal), parietal, and occipital regions [26], or in cingulate, angular, and fusiform gyri [27]. The stronger age correlation in neonates exposed to anesthesia suggests that anesthesia during labor and delivery may induce more rapid maturation of the frontal and occipital lobes in the time between exposure and MRI scanning, on average 2–3 weeks later.
+
+The rapid maturation of the brain in the perinatal period provides ample opportunity for anesthetic agents to exert their effects on brain development in the time between birth and MRI scanning. The brain on average increases more than 20 ml in volume each week of postnatal life. Growth comes disproportionately from gray matter, which increases from 40% of brain volume to 55% in the first several weeks of postnatal life [28, 29].
+
+4.2 Behavioral Correlates
+
+The frontal, cingulate, and occipital regions support rapidly developing motor and cognitive skills in neonates. Exposure to regional anesthesia during labor and delivery has been reported to be associated with impaired motor functions of the mouth and limbs up to six weeks after birth [7]. In our study, receptive and expressive communication and fine and gross motor measures at 12 months did not differ significantly between the exposure groups when covarying for age at scan, gender, delivery type, and socioeconomic status. Although the abnormalities in neonatal brain structure associated with anesthesia exposure could be associated with poorer measures of developmental outcome beyond the first six weeks of life, our study was unable to identify them in part because of a reduced sample of infants who had developmental follow-up data. Furthermore, our sample was mainly of Hispanic background and, while representative of the population of in our local community, it was not representative of the general population. Because previous studies suggest that early feeding and communication practices may differ across ethnic groups [30, 31], replicating prior reports that exposure to regional anesthesia during labor and delivery is associated with neurodevelopmental outcomes would be challenging in our sample.
+
+Fine motor and expressive communication scores at age 12 months correlated inversely with neonatal volumes in the frontal and occipital regions bilaterally, where local volumes correlated positively with anesthesia exposure. Consistent with this finding, the frontal lobes during early development support use and coordination of body parts [32]. The occipital lobes facilitate processing of movement and shape, and thereby support eye-hand coordination [33, 34]. White matter connections among the occipital, cingulate, and frontal regions moreover are thought to support the development of proprioception, aspects of visual information processing, and attention [35, 36].
+
+4.3 Dose-Response Relationship
+
+The longer the duration of anesthesia exposure in our study, the greater were the anesthesia-related effects in the occipital lobe. Consistent with this dose-response relationship, animal studies have found that longer durations, larger doses, and a larger number of exposures to anesthetic agents produce greater effects on dendritic spine density and apoptosis, and greater associated behavioral abnormalities (e.g., in measures of learning and motor response) [12, 37]. Consistent with these findings from animal studies, children exposed to general anesthesia two or more times prior to the age of 4 years have been reported to have a higher incidence of learning disability and Attention Deficit-Hyperactivity Disorder than children exposed only once or not at all [38].
+
+4.4 Possible Cellular Underpinnings
+
+The cellular processes that drive brain maturation during the first weeks of life are the most promising candidate mediators of the effects of anesthesia on brain maturation that we are reporting, as anesthesia exposure occurred at parturition and infants were imaged within six weeks of exposure. Neurogenesis ceases prior to birth [39]. Myelination is sparse in the first few weeks of life and begins in earnest only in the third postnatal year [40]. Axonal and dendritic arborization are active during the neonatal period but their rates are relatively slow compared to their peak in early childhood [41]. Therefore, these processes are unlikely to be the cellular mediators of the effects of anesthesia on neonatal brain maturation.
+
+Apoptosis peaks around 24 weeks of gestation [42, 43] and progressively reduces neuronal density by eliminating inactive or redundant neurons. It then gradually slows to a plateau between two and seven years of age [44]. Because apoptosis reduces neuronal density and presumably regional volumes, and because animal studies clearly indicate that anesthesia increases apoptosis, apoptosis is not an obvious potential mediator for enlarging regional volumes in response to anesthetic exposure. Nevertheless, apoptosis does have an important role in regulating brain growth in the neonatal period and could indirectly contribute to regional enlargement during brain maturation. Synaptogenesis [43] and glial cell proliferation [45], in contrast, both peak in late gestation and early postnatal life and contribute to brain enlargement, making them the most obvious and viable candidates for the cellular basis of anesthetic effects on brain maturation.
+
+The cellular processes that we deem to be the most likely bases for the anesthesia effects we observed are generally consistent with the cellular and molecular effects of anesthesia identified in animal studies, which include prominent alterations in dendritic development and apoptosis. Commonly used anesthetic agents, such as the bupivacaine administered to mothers in our study, are NMDA antagonists [37]. These glutamate antagonists reduce glutamatergic signaling [11, 46] at synapses in the cortex and striatum [47], and thereby produce an accumulation of glutamate in neuronal synapses. Accumulating synaptic glutamate then spills over to nearby GABAergic synapses and binds to GABA receptors [48], increasing GABAergic transmission and in turn increasing the density of dendritic spines [12] and synaptogenesis. In addition, anesthetic agents increase apoptosis and, in doing so, reduce neuronal density in specific cortical laminae [10, 49]. These prior findings together suggest that anesthetic agents may speed the molecular and cellular events that underlie brain maturation in early postnatal life.
+
+4.5 Limitations
+
+Our study has several limitations. Our sample size made difficult the stratification of findings by the type of anesthesia and delivery. The sample size may also have made our statistical analyses sensitive to the presence of outliers in the data, although scatterplots of local volumes for both exposure groups in regions with statistically significant effects demonstrated that our findings are not outlier-driven (SFig.3). In addition, the common practice in obstetrics of combining anesthetic agents, opioids, and other adjuvants in differing dosages and routes of administration complicate determination of the independent effects of those agents.
+
+Although the age of the infants at the time of MRI scanning, was similar across the anesthesia-exposed and -unexposed groups, the postmenstrual age of the youngest infant in each group differed by 4 weeks. Because the greatest proportional brain growth occurs from the last trimester of pregnancy through the first year of postnatal life [28], we statistically covaried for age at the time of scan, which is important in studies that measure brain structures during infancy [17, 50].
+
+Our findings could also be influenced by spatial normalization to a single brain as a template, rather than to a group average brain. However, we weighed the benefit of obtaining well-defined tissue interfaces that reduce error during spatial normalization against this risk, and opted for the greater precision. Moreover, our findings did not change when testing our hypotheses using a second, randomly selected brain as the template (SFig. 6), suggesting that our findings are robust with regard to the selection of the specific template.
+
+In addition, errors in registration may cause imprecise correspondences between points across two brain surfaces, which would increase noise in the data, thereby increasing the presence of both false positive and false negative findings. Nevertheless, deformation-based morphometry spatially normalizes the sulci and gyri along one surface to the corresponding sulci or gyri along the template surface, thereby minimizing the need for accurate and valid definition of sulci and gyri in infant brains than more traditional morphological techniques require. The surfaces of the gyri in newborn brains are so tightly apposed to one another across sulci that they reduce cerebral spinal fluid within the sulci and make impossible the accurate delineation of most sulci. Moreover, the sulci that are truly present (even if they are accurately delineated) are extremely variable in newborn brains, in terms of their presence and location, and therefore are generally unhelpful for the purposes of coregistration. These considerations are why we elected to base coregistration on the mutual information present in gray scale values across brains. Our previous validation studies using computer simulations, combined with real-world datasets, have shown that mutual information-based deformation yields excellent coregistration accuracy [18].
+
+The cross-sectional design of our study limits what we can say conclusively about the effects of anesthesia on the pace of brain maturation within individual infants or its duration. The morphological effects of anesthesia could be transient, similar to the behavioral effects reported in most human studies of neonatal exposure. Finally, our findings could be influenced by other factors relevant to maternal health during the pregnancy (e.g., number of prenatal visits), as detailed in the Supplemental Materials.
+
+4.6 Conclusions
+
+As this is the first study in human infants to demonstrate brain alterations associated with exposure to regional anesthesia during labor and delivery, our findings should be regarded as preliminary. Our study nevertheless answers the FDA call for evaluation of the brain and neurobehavioral consequences of early exposure to anesthesia in humans. Longitudinal imaging and follow-up neurobehavioral studies are needed to identify more definitively both the transient and enduring consequences of anesthesia on brain maturation, cognition, and behavior.
+
+Go to:
+Supplementary Material
+1
+
+Click here to view.(7.7M, docx)
+2
+
+Click here to view.(51K, docx)
+3
+
+Click here to view.(73K, docx)
+Go to:
+Acknowledgements
+Special thanks to Giancarlo Nati, Zachary Toth, Kirwan Walsh, Feng Liu, Yunsuo Duan, I-Chin Chiang, Alayar Kangarlu, Jun Liu, Nelson Chen, Kathleen Durkin, Deborah Jaspen, Samantha Garavelli, and David Semanek for their invaluable technical assistance. Special thanks to Dr. Richard Smiley, Professor and Director of Obstetrical Anesthesia at Columbia University Medical Center, for information regarding the standard analgesia and anesthesia protocols for labor and delivery. This work was supported by National Institute on Drug Abuse R01DA017820; National Institute of Mental Health [grant numbers P50MH090966,T32MH016434]; the Tom Klingenstein and Nancy Perlman Family Fund; and the Suzanne Crosby Murphy endowment at Columbia University.
+
+Go to:
+Abbreviations
+Age	postmenstrual age
+GE	General Electric
+Go to:
+Footnotes
+Publisher's Disclaimer: This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final citable form. Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+Go to:
+References
+1. ALSDAC. Meeting Minutes. Anesthetic and Life Support Drugs Advisory Committee. 2011:1–6.
+2. ALSDAC. Meeting Minutes. Anesthetic and Life Support Drugs Advisory Committee. 2007:1–6.
+3. Goldman-Rakic PS. Development of cortical circuitry and cognitive function. Child Dev. 1987;58(3):601–622. [PubMed]
+4. Kostovic I, Jovanov-Milosevic N. The development of cerebral connections during the first 20–45 weeks' gestation. Semin Fetal Neonatal Med. 2006;11(6):415–422. [PubMed]
+5. Tau GZ, Peterson BS. Normal development of brain circuits. Neuropsychopharmacology. 2010;35(1):147–168. [PMC free article] [PubMed]
+6. Kangas-Saarela T, Jouppila R, Alahuhta S, Jouppila P, Hollmen A. The effect of lumbar epidural analgesia on the neurobehavioural responses of newborn infants. Acta Anaesthesiol Scand. 1989;33(4):320–325. [PubMed]
+7. Baumgarder DJ, Muehl P, Fischer M, Pribbenow B. Effect of labor epidural anesthesia on breast-feeding of healthy full-term newborns delivered vaginally. The Journal of the American Board of Family Practice / American Board of Family Practice. 2003;16(1):7–13. [PubMed]
+8. Sepkoski CM, Lester BM, Ostheimer GW, Brazelton TB. The effects of maternal epidural anesthesia on neonatal behavior during the first month. Dev Med Child Neurol. 1992;34(12):1072–1080. [PubMed]
+9. de Barros Duarte L, Dantas Moises EC, Cavalli RC, Lanchote VL, Duarte G, da Cunha SP. Distribution of bupivacaine enantiomers and lidocaine and its metabolite in the placental intervillous space and in the different maternal and fetal compartments in term pregnant women. J Clin Pharmacol. 2011;51(2):212–217. [PubMed]
+10. Slikker W, Jr, Zou X, Hotchkiss CE, Divine RL, Sadovova N, Twaddle NC, et al. Ketamine-induced neuronal cell death in the perinatal rhesus monkey. Toxicol Sci. 2007;98(1):145–158. [PubMed]
+11. Westphalen RI, Hemmings HC., Jr Volatile anesthetic effects on glutamate versus GABA release from isolated rat cortical nerve terminals: basal release. J Pharmacol Exp Ther. 2006;316(1):208–215. [PubMed]
+12. De Roo M, Klauser P, Briner A, Nikonenko I, Mendez P, Dayer A, et al. Anesthetics rapidly promote synaptogenesis during a critical period of brain development. PLoS One. 2009;4(9):e7043. [PMC free article] [PubMed]
+13. Hollingshead AB. Four factor index of social status. 1975
+14. Pipe JG. Motion correction with PROPELLER MRI: application to head motion and freebreathing cardiac imaging. Magn Reson Med. 1999;42(5):963–969. [PubMed]
+15. Peterson BS, Anderson AW, Ehrenkranz R, Staib LH, Tageldin M, Colson E, et al. Regional brain volumes and their later neurodevelopmental correlates in term and preterm infants. Pediatrics. 2003;111(5 Pt 1):939–948. [PubMed]
+16. Sled JG, Zijdenbos AP, Evans AC. A nonparametric method for automatic correction of intensity nonuniformity in MRI data. IEEE Trans Med Imaging. 1998;17(1):87–97. [PubMed]
+17. Peterson BS, Vohr B, Staib LH, Cannistraci CJ, Dolberg A, Schneider KC, et al. Regional brain volume abnormalities and long-term cognitive outcome in preterm infants. JAMA. 2000;284(15):1939–1947. [PubMed]
+18. Bansal R, Staib LH, Whiteman R, Wang YM, Peterson BS. ROC-based assessments of 3D cortical surface-matching algorithms. Neuroimage. 2005;24(1):150–162. [PubMed]
+19. Peterson BS. Form determines function: new methods for identifying the neuroanatomical loci of circuit-based disturbances in childhood disorders. J Am Acad Child Adolesc Psychiatry. 2010;49(6):533–538. [PMC free article] [PubMed]
+20. Wells WM, 3rd, Viola P, Atsumi H, Nakajima S, Kikinis R. Multi-modal volume registration by maximization of mutual information. Med Image Anal. 1996;1(1):35–51. [PubMed]
+21. Christensen GE, Rabbitt RD, Miller MI. Deformable templates using large deformation kinematics. IEEE Trans Image Process. 1996;5(10):1435–1447. [PubMed]
+22. Logan BR, Rowe DB. An evaluation of thresholding techniques in fMRI analysis. Neuroimage. 2004;22(1):95–108. [PubMed]
+23. Oishi K, Mori S, Donohue PK, Ernst T, Anderson L, Buchthal S, et al. Multi-contrast human neonatal brain atlas: application to normal neonate development analysis. Neuroimage. 2011;56(1):8–20. [PMC free article] [PubMed]
+24. Gilmore JH, Lin W, Prastawa MW, Looney CB, Vetsa YS, Knickmeyer RC, et al. Regional gray matter growth, sexual dimorphism, and cerebral asymmetry in the neonatal brain. J Neurosci. 2007;27(6):1255–1260. [PMC free article] [PubMed]
+25. Nie J, Li G, Wang L, Gilmore JH, Lin W, Shen D. A computational growth model for measuring dynamic cortical development in the first year of life. Cereb Cortex. 2012;22(10):2272–2284. [PMC free article] [PubMed]
+26. Li G, Nie J, Wang L, Shi F, Lin W, Gilmore JH, et al. Mapping region-specific longitudinal cortical surface expansion from birth to 2 years of age. Cereb Cortex. 2013;23(11):2724–2733. [PMC free article] [PubMed]
+27. Gilmore JH, Shi F, Woolson SL, Knickmeyer RC, Short SJ, Lin W, et al. Longitudinal development of cortical and subcortical gray matter from birth to 2 years. Cereb Cortex. 2012;22(11):2478–2485. [PMC free article] [PubMed]
+28. Nishida M, Makris N, Kennedy DN, Vangel M, Fischl B, Krishnamoorthy KS, et al. Detailed semiautomated MRI based morphometry of the neonatal brain: preliminary results. Neuroimage. 2006;32(3):1041–1049. [PubMed]
+29. Huppi PS, Warfield S, Kikinis R, Barnes PD, Zientara GP, Jolesz FA, et al. Quantitative magnetic resonance imaging of brain development in premature and mature newborns. Ann Neurol. 1998;43(2):224–235. [PubMed]
+30. Perrin EM, Rothman RL, Sanders LM, Skinner AC, Eden SK, Shintani A, et al. Racial and Ethnic Differences Associated With Feeding- and Activity-Related Behaviors in Infants. Pediatrics. 2014 [PMC free article] [PubMed]
+31. Cho J, Holditch-Davis D, Belyea M. Gender and racial differences in the looking and talking behaviors of mothers and their 3-year-old prematurely born children. J Pediatr Nurs. 2007;22(5):356–367. [PubMed]
+32. Blumenfeld H. Neuroanatomy through Clinical Cases, Second Edition. Sunderland, MA: Sinauer Associates, Inc.; 2010.
+33. Altmann CF, Deubelius A, Kourtzi Z. Shape saliency modulates contextual processing in the human lateral occipital complex. J Cogn Neurosci. 2004;16(5):794–804. [PubMed]
+34. Grill-Spector K, Kourtzi Z, Kanwisher N. The lateral occipital complex and its role in object recognition. Vision Res. 2001;41(10–11):1409–1422. [PubMed]
+35. Faw B. Pre-frontal executive committee for perception, working memory, attention, long-term memory, motor control, and thinking: a tutorial review. Conscious Cogn. 2003;12(1):83–139. [PubMed]
+36. Peterson BS, Skudlarski P, Gatenby JC, Zhang H, Anderson AW, Gore JC. An fMRI study of Stroop word-color interference: evidence for cingulate subregions subserving multiple distributed attentional systems. Biol Psychiatry. 1999;45(10):1237–1258. [PubMed]
+37. Ueta K, Sugimoto M, Suzuki T, Uchida I, Mashimo T. In vitro antagonism of recombinant ligand-gated ion-channel receptors by stereospecific enantiomers of bupivacaine. Reg Anesth Pain Med. 2006;31(1):19–25. [PubMed]
+38. Sprung J, Flick RP, Katusic SK, Colligan RC, Barbaresi WJ, Bojanic K, et al. Attention-deficit/hyperactivity disorder after early exposure to procedures requiring general anesthesia. Mayo Clinic proceedings Mayo Clinic. 2012;87(2):120–129. [PMC free article] [PubMed]
+39. Huttenlocher PR, de Courten C. The development of synapses in striate cortex of man. Hum Neurobiol. 1987;6(1):1–9. [PubMed]
+40. Iai M, Yamamura T, Takashima S. Early expression of proteolipid protein in human fetal and infantile cerebri. Pediatr Neurol. 1997;17(3):235–239. [PubMed]
+41. Petanjek Z, Judas M, Simic G, Rasin MR, Uylings HB, Rakic P, et al. Extraordinary neoteny of synaptic spines in the human prefrontal cortex. Proc Natl Acad Sci U S A. 2011;108(32):13281–13286. [PMC free article] [PubMed]
+42. Lossi L, Merighi A. In vivo cellular and molecular mechanisms of neuronal apoptosis in the mammalian CNS. Prog Neurobiol. 2003;69(5):287–312. [PubMed]
+43. Levitt P. Structural and functional maturation of the developing primate brain. J Pediatr. 2003;143(4 Suppl):S35–S45. [PubMed]
+44. Huttenlocher PR. Synapse elimination and plasticity in developing human cerebral cortex. Am J Ment Defic. 1984;88(5):488–496. [PubMed]
+45. Ullian EM, Christopherson KS, Barres BA. Role for glia in synaptogenesis. Glia. 2004;47(3):209–216. [PubMed]
+46. Winegar BD, MacIver MB. Isoflurane depresses hippocampal CA1 glutamate nerve terminals without inhibiting fiber volleys. BMC Neurosci. 2006;7:5. [PMC free article] [PubMed]
+47. Carino C, Fibuch EE, Mao LM, Wang JQ. Dynamic loss of surface-expressed AMPA receptors in mouse cortical and striatal neurons during anesthesia. J Neurosci Res. 2012;90(1):315–323. [PMC free article] [PubMed]
+48. Stafford MM, Brown MN, Mishra P, Stanwood GD, Mathews GC. Glutamate spillover augments GABA synthesis and release from axodendritic synapses in rat hippocampus. Hippocampus. 2010;20(1):134–144. [PMC free article] [PubMed]
+49. Rizzi S, Carter LB, Ori C, Jevtovic-Todorovic V. Clinical anesthesia causes permanent damage to the fetal guinea pig brain. Brain Pathol. 2008;18(2):198–210. [PMC free article] [PubMed]
+50. Spann MN, Bansal R, Rosen TS, Peterson BS. Morphological features of the neonatal brain support development of subsequent cognitive, language, and motor abilities. Hum Brain Mapp. 2014 [PMC free article] [PubMed]
